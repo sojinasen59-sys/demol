@@ -25,4 +25,4 @@ SIMPLEDEMO/
           └── ci-cd.yml
 ``` 
 # MBMC 
-- Sojina
+- <sojina>
