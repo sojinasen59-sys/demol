@@ -1,4 +1,4 @@
-name: CI/CD for Static Site
+  name: CI/CD for Static Site
 
 on:
   push:
